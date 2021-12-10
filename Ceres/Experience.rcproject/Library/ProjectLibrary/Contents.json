@@ -1,0 +1,27 @@
+[
+  {
+    "libraryIdentifier" : "334fb408d63fb8e8d1b6060ecdf8663e",
+    "format" : "arObject",
+    "displayName" : "ceres_litchi.arobject"
+  },
+  {
+    "libraryIdentifier" : "dcad1fefd59884a5b80745ad3864b649",
+    "format" : "audio",
+    "displayName" : "Pouring-Water-Into-SmallCup-MedDistance-2-www.FesliyanStudios.com.mp3"
+  },
+  {
+    "libraryIdentifier" : "9b97f585ae734b7ea62de99e6972860f",
+    "format" : "audio",
+    "displayName" : "Pouring-Water-Into-SmallCup-CloseDistance-3-www.FesliyanStudios.com.mp3"
+  },
+  {
+    "libraryIdentifier" : "cc8989e1b42655b12539a664ef0e3d82",
+    "format" : "model",
+    "displayName" : "Bunch_of_red_grapes.reality"
+  },
+  {
+    "libraryIdentifier" : "c310b9ae79268940c07925655ad9f097",
+    "format" : "arObject",
+    "displayName" : "Ceres_Grape.arobject"
+  }
+]
